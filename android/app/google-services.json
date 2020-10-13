@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643875184677",
+    "firebase_url": "https://joyus-c5f37.firebaseio.com",
+    "project_id": "joyus-c5f37",
+    "storage_bucket": "joyus-c5f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643875184677:android:6cf35cca26d89132995fcc",
+        "android_client_info": {
+          "package_name": "com.example.joyus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643875184677-92a28bf97nd9rgo52iqhalvmrbh19vvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5NY79UqfcxH_bGciDLbKfz7X7gInUHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643875184677-92a28bf97nd9rgo52iqhalvmrbh19vvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

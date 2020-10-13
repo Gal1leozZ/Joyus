@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "joyus-ofqegs",
+  "private_key_id": "8734ff8d07a53ab7b59d3980cd0ea6d5e8a51f0f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYlgv7TZxlEHi1\nLLEvbLOexZFJSBabiKCLt0DIcjUmcW6Taa7Bb4X/2VqPkSJRhFrsIN7Amful00P1\nam5xEpMdrMF/04ippu8eig6zJSK8aYOdx3Cfwob2Lhpx/0+oEHS1y8hexU+31qDD\n5DY3jQPcbCng5Vy6x0ieizBD6EAeqbmZQuSFsblm8l7dOLSGBXRhbqkI6c5N+Znp\nAHk3fjNaHj+cbzOZbVaCet0J6zGS8hEz+jsMu70m2Mu5mu+5mb/7jxI6Uc5fVDgw\n4Vq3ocNx//a2RhWh/xxz2/NnUHTcf7IZ+s9QStkNviGHR09mJBcqsYlCEegx8fFc\n6pTW2O6LAgMBAAECggEAKUoA+AGqXla0syHi2FhrynzfsZrGM1QnTWdLKnJtG3f6\nWf1xAnrxIahpLwww4yoTiG3kmO2SAO9IJnKkbAiAsrj6q2JMSswXTIZDMArOeXl7\n2ggL289Bwf/7u/lATtQVINSB5dMynSaA3kE0wpdwAgdq1aZ7Dze52N0FNHr2TtVn\nnq6B060OB/8v1OClHoscBq04yyMXbczs/ZtU+FrhNzaQ2L36hLmG43O9nJbHXx/J\ncD7nHlW1Am00GhUqW8QEtV4fyBs9AYpHl7esfB5SDi65BsZBIxiFKo7eOrpyztWe\nqOu51yXEoGN+jMNnzKzABXj4cUKkNbVG/0z/ga4cAQKBgQDJN1/4q5oOE61jEeET\nqbDb1pdlUugSUEcHQHf6nnGtU9Iq5jLDN3j2qH1dY4sRQVzSIsrHCGqvIdiqoOD2\nTqzmlPiMWaFZd5pW/F1V13K2y7Byim66bGIlFlY+RttwZIYm0hKgiJ/UizyMWZwf\njXPPbg3XtG5h6gtzQW/lvCuriwKBgQDCIS84YvUkxVJTEhk1h5cqFan5MIIsdb0K\nqvQlgZQx6/hLztKFiPVyv3o8OyvmJRNvDOhS8Qw06C8fsTSN+ZJjpPdl09OxNKYk\n9zQ+y0xhQ3k/FwkaOt9lFrrZDFpgSgF9rL+FcDkf2TRPZKs1KFYE5aajv+NALUJ+\nnmF/KxwpAQKBgDC6b0xqSjmEfGXUi5xWaNUkR6+q/zaIKFtSOnv/6OmftfLbooly\nIqIhNZLrK193Y8Ij2NWQbT2SRcU0hqY/cVG52+MpRZDEDSVpojTKoyYvd8CVU7Fj\n0/TFTwdv4255eZ9nGkm0LHita3FVtiBSAizGqyWEtYKSykkUHMQW6MB3AoGAY6xI\nI2pjtaJ+l1pWiS56BcijwecPHybAjiaiPlOetFcU4E9rtdZRN75qU1yKOJtWtBDr\nhBJxkwSXlW0Vr8OxTuoXgDfXnEeM+rPWJluZduL+8M6yBL6vjqax/tkh2giFZXJ5\nz1iEa/7Ipe7pHNz99Xu4KKFQW9YhKwPEyVdoGQECgYADkZ1aKEF2bVj83cDLNpDD\nlLJQ/Ew9ijmr6oDZVae0S+8ErlRfD3xFWvZZtDxnvir92cATw39Z6/oX5tX/TZs2\nd8ZGLu/Gk+g+wgvc+1WMcerrk9sjKo+9HD2oeev+raE+gJBT9zlfEOfidqVKzNAo\nHSswipIY2vN9UlniY16PbA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "joyusbot@joyus-ofqegs.iam.gserviceaccount.com",
+  "client_id": "102085713129615901324",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/joyusbot%40joyus-ofqegs.iam.gserviceaccount.com"
+}
